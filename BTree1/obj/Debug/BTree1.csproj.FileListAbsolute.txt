@@ -1,0 +1,11 @@
+D:\User\unic\Курсовая C#\BTree1\BTree1\bin\Debug\BTree1.exe.config
+D:\User\unic\Курсовая C#\BTree1\BTree1\bin\Debug\BTree1.exe
+D:\User\unic\Курсовая C#\BTree1\BTree1\bin\Debug\BTree1.pdb
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.csproj.AssemblyReference.cache
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.csproj.SuggestedBindingRedirects.cache
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.Form1.resources
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.Properties.Resources.resources
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.csproj.GenerateResource.cache
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.csproj.CoreCompileInputs.cache
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.exe
+D:\User\unic\Курсовая C#\BTree1\BTree1\obj\Debug\BTree1.pdb
